@@ -1,0 +1,8 @@
+{
+  "id": "b5cc9860-10f1-42ab-979f-4f5ce7cff55c",
+  "name": "testing-standalone",
+  "overview": "This is a test of a standalone package",
+  "organization": "cstars",
+  "language": "python",
+  "owner": "jrmerz"
+}
